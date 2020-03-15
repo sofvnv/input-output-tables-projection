@@ -2,7 +2,10 @@
 Tutorial on basic using of methods can be found in Tutorial.ipynb.
 
 Jupyter notebooks:
-- **projection_RUS.ipynb** - different methods for projection applied to russian tables of 2011 and 2016 years
+- **Tutorial.ipynb** - demo file with different methods for projection
+- **Aggregation.ipynb** - experiments with using aggregation on USA use tables
+- **AggregationSupply.ipynb** - experiments with using aggregation on USA supply tables
+- **Test with prak.ipynb** - file that can be used to test methods & metrics on data from practice
 
 Other files:
 - **docs/scripts** - documentation. Read in browser, start reading from index.html
