@@ -1,5 +1,6 @@
-# Disaggregation
-Tutorial on basic using of methods can be found in Tutorial.ipynb.
+# INPUT-OUTPUT TABLES PROJECTION
+
+Focused of russian tables of 2011 and 2016 years from https://www.gks.ru/accounts.
 
 Jupyter notebooks:
 - **projection_RUS.ipynb** - different methods for projection applied to russian tables of 2011 and 2016 years
